@@ -22,5 +22,3 @@ Step 4:- git commit -m "Message" :- It is used to identify the reason for the co
 
 // git adds the file in the create mode with a specific file permission. Here it refers to Normal File.
 // Other options are :- 100755, 100644
-
-Step 5:- 
