@@ -1,0 +1,26 @@
+Version control system is a system that records to a file or a set of files over the time so that you can recall specific versions later.
+
+Advantage of Version control system is that it allows you to revert back to a previous state, review changes made over time, see who last modified something that might be causing the problem, who introduced an issue, when and where.
+
+In simple if we screw up something with files, we can also recover it back.
+
+Git is an open-source version control system created by Linus Torvalds in 2005. It is a Distributed Version Control System.
+
+Git does not rely on a central server to store all version's of its project files. Instead every user clones a copy of the repository (collection of files) and has the full history of their project on their own hard drive.
+
+A repository is referred to as a collection of files.
+
+Following Steps are used while working with GIT :- 
+
+Step 1:- git init :- It is used to initialize empty git repository.
+
+Step 2:- git status :- It is used to check the status of the git state of the working directory.
+
+Step 3:- git add file_name :- It is used to add the files into the git repository.
+
+Step 4:- git commit -m "Message" :- It is used to identify the reason for the commit into repository.
+
+// git adds the file in the create mode with a specific file permission. Here it refers to Normal File.
+// Other options are :- 100755, 100644
+
+Step 5:- 
