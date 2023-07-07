@@ -16,9 +16,18 @@ Step 1:- git init :- It is used to initialize empty git repository.
 
 Step 2:- git status :- It is used to check the status of the git state of the working directory.
 
-Step 3:- git add file_name :- It is used to add the files into the git repository.
+Step 3:- git add <file_name> :- It is used to add the files into the git repository.
 
 Step 4:- git commit -m "Message" :- It is used to identify the reason for the commit into repository.
 
 // git adds the file in the create mode with a specific file permission. Here it refers to Normal File.
 // Other options are :- 100755, 100644
+Step 5:- git log :- It is used to get the log information of all the commits staged in the repository. It gives us the log information according to the recent commits made.
+
+Step 6:- git restore --staged <file> :- It is used to restore a staged file that was added previously using git add.
+
+Step 7:- git reset <hash_id> :- It is used to remove or unstage the commits that were performed.
+
+Step 8:- git stash :- It is used to save the working directory which are staged but not required now to commit.
+
+
