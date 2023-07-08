@@ -30,4 +30,4 @@ Step 7:- git reset <hash_id> :- It is used to remove or unstage the commits that
 
 Step 8:- git stash :- It is used to save the working directory which are staged but not required now to commit.
 
-
+Step 9:- git stash pop :- It is used to roll back the changes the which were made and kept in stage.
